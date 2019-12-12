@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "OC_Precincts2",
+"name": "OC_PollingLocations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "POLLS_": 1, "POLLS_ID": 10, "STATION": "CALDWELL", "POLYGONID": 0, "SCALE": 1.0, "ANGLE": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -79.021774924364522, 36.19739555978515 ] } },
